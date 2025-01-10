@@ -13,7 +13,7 @@ email_pass = os.getenv("EMAIL_PASS")
 msg = EmailMessage()
 msg['Subject'] = 'Manifestation'
 msg['From'] = email_id
-msg['To'] = 'vemurinikethana@gmail.com'
+msg['To'] = 'email1@gmail.com'
 msg.set_content('Prabhat and I will get a job very soon and 2025 is going to be an amazing year for Prabhat and me.')
 
 files = ['.venv/img.png', '.venv/img_1.png']
