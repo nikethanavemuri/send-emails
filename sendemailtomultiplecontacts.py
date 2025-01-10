@@ -10,7 +10,7 @@ load_dotenv()
 email_id = os.getenv("EMAIL_ADOR")
 email_pass = os.getenv("EMAIL_PASS")
 
-contacts = ['vemurinikethana@gmail.com', 'js.prabhat@gmail.com']
+contacts = ['email1@gmail.com', 'email2@gmail.com']
 
 msg = EmailMessage()
 msg['Subject'] = 'Manifestation'
