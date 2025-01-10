@@ -1,4 +1,5 @@
-# send-emails
+# Email Automation Using Python
+
 ## Email Automation Scripts
 This repository contains multiple Python scripts to automate email-sending tasks using the smtplib library. Each script demonstrates a unique functionality, from sending simple emails to sending emails with attachments and multiple recipients.
 
