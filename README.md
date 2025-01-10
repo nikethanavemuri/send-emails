@@ -17,8 +17,7 @@ Easy customization of email content, recipients, and attachments.
 
 3) A Gmail account configured for sending emails:
 
-  Enable "Allow less secure apps" in your Gmail settings, or
-  Use App Passwords for better security.
+      Enable "Allow less secure apps" in your Gmail settings, or Use App Passwords for better security.
 
 4) Create a .env file to store your credentials securely:
     EMAIL_ADOR=your_email@gmail.com
